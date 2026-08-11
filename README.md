@@ -2,8 +2,6 @@
 
 A modern React + Vite restaurant landing page featuring a hero section, menu highlights, hospitality details, and reservation contact information.
 
-![Illustrated preview of the signature thali hero graphic](public/signature-thali.svg)
-
 ## Scripts
 
 - `npm run dev` - start the local development server

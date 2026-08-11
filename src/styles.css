@@ -59,10 +59,7 @@ h2 { font-size: clamp(2rem, 4vw, 3.4rem); letter-spacing: -.04em; line-height: 1
 .heroCard { align-self: center; border-radius: 2rem; padding: 1rem; transform: rotate(2deg); }
 .dishImage {
   aspect-ratio: 4 / 3;
-  border-radius: 1.5rem;
-  display: block;
-  object-fit: cover;
-  width: 100%;
+
 }
 .rating { color: #9b3a13; font-weight: 800; gap: .35rem; margin-top: 1rem; }
 .heroCard h2 { font-size: 2rem; margin: .75rem 0; }
