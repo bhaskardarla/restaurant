@@ -1,0 +1,45 @@
+<svg width="1280" height="900" viewBox="0 0 1280 900" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Restaurant application UI preview</title>
+  <desc id="desc">A screenshot-style preview of the Saffron Table React restaurant landing page with navigation, hero, menu cards, about section, and reservation details.</desc>
+  <rect width="1280" height="900" fill="#FFF8EF"/>
+  <rect x="48" y="34" width="1184" height="72" rx="28" fill="#FFFDF8" stroke="#E8CFB8"/>
+  <text x="88" y="79" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="800" fill="#7A2D12">🍽 Saffron Table</text>
+  <text x="890" y="77" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700" fill="#2D1A12">Menu</text>
+  <text x="980" y="77" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700" fill="#2D1A12">About</text>
+  <text x="1085" y="77" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700" fill="#2D1A12">Reserve</text>
+
+  <text x="84" y="182" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" letter-spacing="3" fill="#C25A1D">AUTHENTIC FLAVORS • MODERN HOSPITALITY</text>
+  <text x="80" y="265" font-family="Inter, Arial, sans-serif" font-size="70" font-weight="900" fill="#2D1A12">Restaurant experiences</text>
+  <text x="80" y="337" font-family="Inter, Arial, sans-serif" font-size="70" font-weight="900" fill="#2D1A12">crafted for memorable</text>
+  <text x="80" y="409" font-family="Inter, Arial, sans-serif" font-size="70" font-weight="900" fill="#2D1A12">evenings.</text>
+  <text x="84" y="468" font-family="Inter, Arial, sans-serif" font-size="24" fill="#6D5548">Enjoy vibrant Indian-inspired dishes, warm service,</text>
+  <text x="84" y="504" font-family="Inter, Arial, sans-serif" font-size="24" fill="#6D5548">and an elegant dining room made for celebrations.</text>
+  <rect x="82" y="550" width="174" height="58" rx="29" fill="#8F3514"/>
+  <text x="114" y="586" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="800" fill="white">Book a Table</text>
+  <rect x="278" y="550" width="150" height="58" rx="29" fill="none" stroke="#D8BEA7"/>
+  <text x="313" y="586" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="800" fill="#7A2D12">View Menu</text>
+
+  <g transform="translate(766 150) rotate(2 210 300)">
+    <rect width="390" height="526" rx="34" fill="white" fill-opacity="0.86" stroke="#E2C8AE"/>
+    <image href="../public/signature-thali.svg" x="20" y="20" width="350" height="263" preserveAspectRatio="xMidYMid slice"/>
+    <text x="30" y="330" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" fill="#9B3A13">★ 4.9 guest rating</text>
+    <text x="30" y="380" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="900" fill="#2D1A12">Chef's Signature</text>
+    <text x="30" y="420" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="900" fill="#2D1A12">Thali</text>
+    <text x="30" y="466" font-family="Inter, Arial, sans-serif" font-size="18" fill="#705649">A curated platter of house</text>
+    <text x="30" y="492" font-family="Inter, Arial, sans-serif" font-size="18" fill="#705649">favorites, breads, rice, and sweets.</text>
+  </g>
+
+  <text x="82" y="705" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" letter-spacing="3" fill="#C25A1D">MENU HIGHLIGHTS</text>
+  <text x="82" y="758" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="900" fill="#2D1A12">Fresh from our kitchen</text>
+  <g font-family="Inter, Arial, sans-serif">
+    <rect x="82" y="790" width="340" height="86" rx="22" fill="#FFFFFF" stroke="#E8CFB8"/>
+    <text x="106" y="826" font-size="22" font-weight="800" fill="#2D1A12">Tandoori Paneer</text>
+    <text x="106" y="856" font-size="18" fill="#8F3514">$14</text>
+    <rect x="470" y="790" width="340" height="86" rx="22" fill="#FFFFFF" stroke="#E8CFB8"/>
+    <text x="494" y="826" font-size="22" font-weight="800" fill="#2D1A12">Coastal Prawn Curry</text>
+    <text x="494" y="856" font-size="18" fill="#8F3514">$24</text>
+    <rect x="858" y="790" width="340" height="86" rx="22" fill="#FFFFFF" stroke="#E8CFB8"/>
+    <text x="882" y="826" font-size="22" font-weight="800" fill="#2D1A12">Hyderabadi Biryani</text>
+    <text x="882" y="856" font-size="18" fill="#8F3514">$21</text>
+  </g>
+</svg>
