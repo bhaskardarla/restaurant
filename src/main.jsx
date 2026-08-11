@@ -38,7 +38,6 @@ function App() {
           </div>
         </div>
         <div className="heroCard" aria-label="Featured dish">
-          <div className="dishImage" />
           <div className="rating"><Star fill="currentColor" size={18} /> 4.9 guest rating</div>
           <h2>Chef's Signature Thali</h2>
           <p>A curated platter of house favorites, fresh breads, fragrant rice, and seasonal sweets.</p>

@@ -1,0 +1,28 @@
+<svg width="900" height="675" viewBox="0 0 900 675" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Chef signature thali illustration</title>
+  <desc id="desc">A colorful illustrated Indian thali platter with curry bowls, rice, naan, chutneys, and garnish.</desc>
+  <rect width="900" height="675" rx="48" fill="#F3B35F"/>
+  <circle cx="450" cy="346" r="238" fill="#7A2D12" opacity="0.18"/>
+  <circle cx="450" cy="326" r="226" fill="#FFF8EF"/>
+  <circle cx="450" cy="326" r="188" fill="#F6E1C4"/>
+  <ellipse cx="450" cy="520" rx="210" ry="32" fill="#7A2D12" opacity="0.18"/>
+  <circle cx="315" cy="247" r="72" fill="#D24D1B"/>
+  <circle cx="315" cy="247" r="54" fill="#F79445"/>
+  <path d="M282 240c23-22 57-22 81 0" stroke="#FFD894" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="586" cy="244" r="68" fill="#6F9A44"/>
+  <circle cx="586" cy="244" r="50" fill="#A4C85F"/>
+  <path d="M558 265c16-21 43-29 67-18" stroke="#E6F0B2" stroke-width="11" stroke-linecap="round"/>
+  <circle cx="435" cy="370" r="88" fill="#F7DFAF"/>
+  <path d="M376 365c39-34 91-35 127 0" stroke="#FFFFFF" stroke-width="15" stroke-linecap="round" opacity="0.75"/>
+  <path d="M393 398c29-18 72-19 101 0" stroke="#C25A1D" stroke-width="11" stroke-linecap="round" opacity="0.48"/>
+  <path d="M210 391c36-53 106-69 162-38c-25 58-100 82-162 38Z" fill="#D9A15F"/>
+  <path d="M228 385c34-32 80-42 124-25" stroke="#8F3514" stroke-width="8" stroke-linecap="round" opacity="0.35"/>
+  <path d="M547 396c56-50 137-49 191 2c-50 43-139 52-191-2Z" fill="#E0AD68"/>
+  <path d="M579 390c39-21 83-21 121 2" stroke="#8F3514" stroke-width="8" stroke-linecap="round" opacity="0.35"/>
+  <circle cx="288" cy="407" r="31" fill="#C25A1D"/>
+  <circle cx="614" cy="398" r="29" fill="#FFD894"/>
+  <circle cx="642" cy="426" r="20" fill="#D24D1B"/>
+  <circle cx="351" cy="457" r="24" fill="#6F9A44"/>
+  <path d="M685 174c45 16 82 49 105 92" stroke="#FFF8EF" stroke-width="15" stroke-linecap="round" opacity="0.55"/>
+  <path d="M144 474c-31-31-51-71-58-115" stroke="#FFF8EF" stroke-width="15" stroke-linecap="round" opacity="0.55"/>
+</svg>
