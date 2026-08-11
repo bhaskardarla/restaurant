@@ -1,0 +1,30 @@
+{
+  "name": "restaurant-fullstack",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "dev:server": "node server.js",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "start": "node server.js",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "lucide-react": "latest",
+    "cors": "latest",
+    "express": "latest"
+  },
+  "devDependencies": {
+    "eslint": "latest",
+    "@eslint/js": "latest",
+    "eslint-plugin-react-hooks": "latest",
+    "eslint-plugin-react-refresh": "latest",
+    "globals": "latest"
+  }
+}
