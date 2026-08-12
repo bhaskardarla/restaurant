@@ -10,7 +10,7 @@ import {
 } from 'lucide-react';
 import './styles.css';
 
-const API_URL = 'http://54.208.220.106:3000';
+const API_URL = '';
 
 const highlights = [
   'Seasonal chef tasting menu',
@@ -24,7 +24,12 @@ function App() {
 
   useEffect(() => {
     fetch(`${API_URL}/api/menu`)
-      .then((response) => response.json())
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error('Failed to fetch menu');
+        }
+        return response.json();
+      })
       .then((data) => {
         setMenuItems(data.items);
         setLoading(false);
